@@ -19,15 +19,15 @@
     "storybook:build": "storybook build"
   },
   "dependencies": {
-<<<<<<< HEAD
+// <<<<<<< HEAD
     "@mantine/core": "^7.8.0",
     "@mantine/hooks": "^7.8.0",
     "@mantinex/mantine-logo": "^1.0.1",
     "@tabler/icons-react": "^3.2.0",
-=======
+// =======
     "@mantine/core": "7.8.1",
     "@mantine/hooks": "7.8.1",
->>>>>>> 5b77b8adc164f614eceb5e8076799c23fdeb8004
+// >>>>>>> 5b77b8adc164f614eceb5e8076799c23fdeb8004
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
