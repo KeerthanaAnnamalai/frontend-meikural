@@ -1,0 +1,37 @@
+Users:
+  [
+    Admin:
+      [
+        Dashboard:
+          [
+            Home:
+              [
+                Groups(College): [College: []],
+                Students(Individual): [],
+                Subscribers(Non paid users): [],
+              ],
+            Dashboard: [],
+            Analytics: [],
+            Releases: [],
+            Security: [],
+            Setting: [],
+            Account: [],
+            Theme: [Light, Dark],
+          ],
+      ],
+    College:
+      [Dashboard: [Dashboard: [], Analytics: [], Setting: [], Account: [], Theme: [Light, Dark]]],
+    Students:
+      [Dashboard: [Dashboard: [], Analytics: [], Setting: [], Account: [], Theme: [Light, Dark]]],
+    Subscribers:
+      [
+        Dashboard:
+          [
+            Dashboard: [Null],
+            Analytics: [Null],
+            Setting: [Null],
+            Account: [],
+            Theme: [Light, Dark],
+          ],
+      ],
+  ]
